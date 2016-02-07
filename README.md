@@ -1,2 +1,2 @@
 # UmholtzTommy
-Currently this repository is exist to take class assignments.
+Currently this repository exist to take class assignments.
