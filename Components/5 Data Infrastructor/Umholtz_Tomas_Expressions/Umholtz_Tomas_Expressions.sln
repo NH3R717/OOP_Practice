@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umholtz_Tomas_Expressions", "Umholtz_Tomas_Expressions\Umholtz_Tomas_Expressions.csproj", "{1A8FD19D-6FE6-45C6-BD28-55B6D89627F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8FD19D-6FE6-45C6-BD28-55B6D89627F9}.Debug|x86.ActiveCfg = Debug|x86
+		{1A8FD19D-6FE6-45C6-BD28-55B6D89627F9}.Debug|x86.Build.0 = Debug|x86
+		{1A8FD19D-6FE6-45C6-BD28-55B6D89627F9}.Release|x86.ActiveCfg = Release|x86
+		{1A8FD19D-6FE6-45C6-BD28-55B6D89627F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

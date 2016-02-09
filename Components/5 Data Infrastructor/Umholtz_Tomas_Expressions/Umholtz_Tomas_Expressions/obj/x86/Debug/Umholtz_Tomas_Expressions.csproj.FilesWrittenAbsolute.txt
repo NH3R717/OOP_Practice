@@ -1,0 +1,5 @@
+/Users/paulholtz/Desktop/FS Direct/5 Data Infrastructor/Week 2/Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/paulholtz/Desktop/FS Direct/5 Data Infrastructor/Week 2/Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions/bin/Debug/Umholtz_Tomas_Expressions.exe.mdb
+/Users/paulholtz/Desktop/FS Direct/5 Data Infrastructor/Week 2/Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions/bin/Debug/Umholtz_Tomas_Expressions.exe
+/Users/paulholtz/Desktop/FS Direct/5 Data Infrastructor/Week 2/Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions/obj/x86/Debug/Umholtz_Tomas_Expressions.exe
+/Users/paulholtz/Desktop/FS Direct/5 Data Infrastructor/Week 2/Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions/obj/x86/Debug/Umholtz_Tomas_Expressions.exe.mdb

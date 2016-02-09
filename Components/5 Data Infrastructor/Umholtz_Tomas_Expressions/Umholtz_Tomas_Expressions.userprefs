@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Umholtz_Tomas_Expressions/Umholtz_Tomas_Expressions.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Umholtz_Tomas_Expressions\Program.cs">
+    <Files>
+      <File FileName="Umholtz_Tomas_Expressions\Program.cs" Line="9" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

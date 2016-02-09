@@ -1,0 +1,5 @@
+/Users/paulholtz/Projects/Week_One_Notes/Week_One_Notes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/paulholtz/Projects/Week_One_Notes/Week_One_Notes/bin/Debug/Week_One_Notes.exe.mdb
+/Users/paulholtz/Projects/Week_One_Notes/Week_One_Notes/bin/Debug/Week_One_Notes.exe
+/Users/paulholtz/Projects/Week_One_Notes/Week_One_Notes/obj/x86/Debug/Week_One_Notes.exe
+/Users/paulholtz/Projects/Week_One_Notes/Week_One_Notes/obj/x86/Debug/Week_One_Notes.exe.mdb

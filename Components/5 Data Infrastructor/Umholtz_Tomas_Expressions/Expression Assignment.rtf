@@ -1,0 +1,65 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Italic;}
+{\colortbl;\red255\green255\blue255;\red0\green150\blue149;\red51\green51\blue51;\red51\green100\blue164;
+\red136\green136\blue136;\red245\green125\blue0;\red165\green62\blue0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww27180\viewh17140\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs29 \cf0 .0390625\cf2 using\cf3  System;\uc0\u8232 \u8232 \cf2 namespace\cf3  Umholtz_Tomas_Expression_Assignment\uc0\u8232 \{\u8232 	\cf2 class\cf3  \cf4 MainClass\uc0\u8232 \cf3 	\{\uc0\u8232 		\cf2 public\cf3  \cf2 static\cf3  \cf2 void\cf3  Main (\cf2 string\cf3 [] args)\uc0\u8232 		\{	\u8232 			\u8232 			
+\f1\i \cf5 /*\uc0\u8232 			Name: Tommy Umholtz\u8232 			Date: 12/01/15\u8232 			Section: 01\u8232 			*/\u8232 \u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 /*This is a calculator to find out how many small brown poodles you might\uc0\u8232 			see while walking the old french concession in Shanghai China in 2015.\u8232 			*/\u8232 \u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //Being polite, asking the users name\uc0\u8232 
+\f0\i0 \cf3 			\cf4 Console\cf3 .WriteLine (\cf6 "Please type your name and press enter."\cf3 );\uc0\u8232 \u8232 			
+\f1\i \cf5 //Space for the user to type there name and for it to be stored as a string\uc0\u8232 
+\f0\i0 \cf3 			\cf2 string\cf3  userName = \cf4 Console\cf3 .ReadLine();\uc0\u8232 \u8232 			
+\f1\i \cf5 //Say hello to the user\uc0\u8232 
+\f0\i0 \cf3 			\cf4 Console\cf3 .WriteLine (\cf6 "Hello "\cf3  + userName + \cf6 " welcome to the Shanghai poodle sighting calculator!"\cf3 );\uc0\u8232 \u8232 			
+\f1\i \cf5 //Ask the user how many meters they plan on waling in the French Concession.\uc0\u8232 
+\f0\i0 \cf3 			\cf4 Console\cf3 .WriteLine (\cf6 "How many meters do you plan on walking?"\cf3 );\uc0\u8232 \u8232 			
+\f1\i \cf5 //Space for the user to type meters walked and for it to be stored as a string \uc0\u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //(ReadLine values can only be enters as strings)\uc0\u8232 
+\f0\i0 \cf3 			\cf2 string\cf3  metersString = \cf4 Console\cf3 .ReadLine();\uc0\u8232 \u8232 			
+\f1\i \cf5 //casting or parsing string datatype into a integer datatype\uc0\u8232 
+\f0\i0 \cf3 			\cf2 float\cf3  metersWalked = \cf2 float\cf3 .Parse(metersString);\uc0\u8232 \u8232 			\cf4 Console\cf3 .WriteLine (\cf6 "How many meters of the street you will walk on which are under construction? \cf7 \\ r\\n\cf6 Enter meters of street under construction during your walk."\cf3 );\uc0\u8232 \u8232 			
+\f1\i \cf5 //Space for the user to type meters of street under construction.\uc0\u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //(ReadLine values can only be enters as strings)\uc0\u8232 
+\f0\i0 \cf3 			\cf2 string\cf3  construction = \cf4 Console\cf3 .ReadLine();\uc0\u8232 \u8232 			
+\f1\i \cf5 //casting or parsing string datatype into a float datatype\uc0\u8232 
+\f0\i0 \cf3 			\cf2 float\cf3  constructionMeters = \cf2 float\cf3 .Parse(construction);\uc0\u8232 \u8232 			metersWalked -= constructionMeters;\u8232 \u8232 			
+\f1\i \cf5 //poodles per length walked multiplier 1 poodle sighted every meters using\uc0\u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //the multiplication assignment operator\uc0\u8232 
+\f0\i0 \cf3 			metersWalked/=\cf6 300f\cf3 ;\uc0\u8232 \u8232 			
+\f1\i \cf5 //\uc0\u8232 
+\f0\i0 \cf3 			\cf4 Console\cf3 .WriteLine (\cf6 "Is it raining? \cf7 \\ r\\n\cf6 Enter 1 for yes and 2 for no:"\cf3 );\uc0\u8232 			
+\f1\i \cf5 //Space for the user to type rain multiplier.\uc0\u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //(ReadLine values can only be entered as strings)\uc0\u8232 
+\f0\i0 \cf3 			\cf2 string\cf3  rain = \cf4 Console\cf3 .ReadLine();\uc0\u8232 \u8232 			
+\f1\i \cf5 //casting or parsing string datatype into a float datatype\uc0\u8232 
+\f0\i0 \cf3 			\cf2 float\cf3  rainFactor = \cf2 float\cf3 .Parse(rain);\uc0\u8232 \u8232 			
+\f1\i \cf5 //factoring rain variable using multiplication assignment operator\uc0\u8232 
+\f0\i0 \cf3 			metersWalked *= rainFactor;\uc0\u8232 \u8232 			
+\f1\i \cf5 //implicitly convert\uc0\u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //int poodlesSighted = metersWalked;\uc0\u8232 \u8232 
+\f0\i0 \cf3 			\cf2 int\cf3  metersWalked2 = (\cf2 int\cf3 )metersWalked;\uc0\u8232 \u8232 			\cf4 Console\cf3 .WriteLine (\cf6 "You are likely to see "\cf3  + metersWalked2 + \cf6 " poodles while walking in Shanghai."\cf3 );\uc0\u8232 \u8232 			
+\f1\i \cf5 //This array will give the probability of what the poodles you see might be doing.\uc0\u8232 
+\f0\i0 \cf3 			\cf2 float\cf3  [] poodles = \cf2 new\cf3  \cf2 float\cf3 [\cf6 3\cf3 ];\uc0\u8232 			poodles [\cf6 0\cf3 ] = \cf6 16\cf3 ;\uc0\u8232 			poodles [\cf6 1\cf3 ] = \cf6 20\cf3 ;\uc0\u8232 			poodles [\cf6 2\cf3 ] = \cf6 40\cf3 ;\uc0\u8232 \u8232 			
+\f1\i \cf5 /*\uc0\u8232 			poodles [0] = poodle pair fighting/playing\u8232 			poodles [1] = poodle urinating on vegetable vendor's product\u8232 			poodles [2] = poodle being hit by a city bus\u8232 			*/\u8232 \u8232 
+\f0\i0 \cf3 			\cf2 float\cf3  poodlesFighting = metersWalked / poodles [\cf6 0\cf3 ];\uc0\u8232 			\cf2 float\cf3  poodlesUrinating = metersWalked / poodles [\cf6 1\cf3 ];\uc0\u8232 			\cf2 float\cf3  poodlesHitBus = metersWalked / poodles [\cf6 2\cf3 ];\uc0\u8232 		\u8232 			\cf2 int\cf3  poodlesFighting2 = (\cf2 int\cf3 )poodlesFighting;\uc0\u8232 			\cf2 int\cf3  poodlesUrinating2 = (\cf2 int\cf3 )poodlesUrinating;\uc0\u8232 			\cf2 int\cf3  poodlesHitBus2 = (\cf2 int\cf3 )poodlesHitBus;\uc0\u8232 \u8232 			
+\f1\i \cf5 /*\uc0\u8232 			int poodlesFighting2 = poodlesFighting;\u8232 			int poodlesUrinating2 = poodlesUrinating;\u8232 			int poodlesHitBus2 = poodlesHitBus;\u8232 			*/\u8232 \u8232 
+\f0\i0 \cf3 			\cf4 Console\cf3 .WriteLine (\cf6 "With a probability that "\cf3  + poodlesFighting2 + \cf6 " pairs of those poodles will be fighting or playing, "\cf3 );\uc0\u8232 			\cf4 Console\cf3 .WriteLine (+ poodlesUrinating2 + \cf6 " will be urinating on a vender\'92s produce and "\cf3 );\uc0\u8232 			\cf4 Console\cf3 .WriteLine (+ poodlesHitBus2 + \cf6 " will be hit by a bus"\cf3 );\uc0\u8232 \u8232 
+\f1\i \cf5 //			metersWalked/poodles [1]= int poodlesUrinating;\uc0\u8232 //			metersWalked/poodles [2]= int poodlesHitBus;\u8232 \u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //Console.WriteLine(poodlesFighting);\uc0\u8232 \u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //			metersWalked = poodles\uc0\u8232 \u8232 \u8232 
+\f0\i0 \cf3 			
+\f1\i \cf5 //Console.WriteLine (metersWalked);\uc0\u8232 
+\f0\i0 \cf3 		\uc0\u8232 		\}\u8232 	\}\u8232 \}\u8232 \u8232 }

@@ -1,0 +1,5 @@
+H:\Projects\Week_Four_Notes_3\Week_Four_Notes_3\bin\Debug\Week_Four_Notes_3.exe
+H:\Projects\Week_Four_Notes_3\Week_Four_Notes_3\bin\Debug\Week_Four_Notes_3.pdb
+H:\Projects\Week_Four_Notes_3\Week_Four_Notes_3\obj\x86\Debug\Week_Four_Notes_3.csprojResolveAssemblyReference.cache
+H:\Projects\Week_Four_Notes_3\Week_Four_Notes_3\obj\x86\Debug\Week_Four_Notes_3.exe
+H:\Projects\Week_Four_Notes_3\Week_Four_Notes_3\obj\x86\Debug\Week_Four_Notes_3.pdb

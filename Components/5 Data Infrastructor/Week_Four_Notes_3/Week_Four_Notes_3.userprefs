@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Week_Four_Notes_3\Week_Four_Notes_3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Week_One_Notes\Week_One_Notes\Program.cs">
+    <Files>
+      <File FileName="Week_Four_Notes_3\Program.cs" Line="129" Column="37" />
+      <File FileName="..\Week_Four_Notes_2\Week_Four_Notes_2\Program.cs" Line="1" Column="1" />
+      <File FileName="..\Week_Four_Notes\Week_Four_Notes\Program.cs" Line="1" Column="1" />
+      <File FileName="..\Week_Three_Notes\Week_Three_Notes\Program.cs" Line="1" Column="1" />
+      <File FileName="..\Week_Two_Notes\Week_Two_Notes\Program.cs" Line="1" Column="1" />
+      <File FileName="..\Week_One_Notes\Week_One_Notes\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
